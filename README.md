@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @jogro99
-- 👀 I’m interested in ... - Innovations and Engineering -
-- 🌱 I’m currently learning ...  - everything -
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... Discord: Jonas/Zammertime#2790
+-  Hi, I’m @jogro99 alias Jonas
+-  I’m interested in ...       - Innovations and Engineering -
+-  I’m currently learning ...  - everything -
+-  I am working as ...         - a Industrial Engineer and study Automotive Production -
+-  How to reach me ...         - Discord: Jonas/Zammertime#2790 -
 
 <!---
 jogro99/jogro99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
